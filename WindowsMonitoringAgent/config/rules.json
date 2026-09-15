@@ -1,0 +1,61 @@
+{
+    "version": 1,
+    "severity_thresholds": {
+        "low": 1,
+        "medium": 4,
+        "high": 7,
+        "critical": 10
+    },
+    "suspicious_parent_child": {
+        "winword.exe": [
+            "powershell.exe",
+            "pwsh.exe",
+            "cmd.exe",
+            "wscript.exe",
+            "cscript.exe",
+            "mshta.exe"
+        ],
+        "excel.exe": [
+            "powershell.exe",
+            "pwsh.exe",
+            "cmd.exe",
+            "wscript.exe",
+            "cscript.exe",
+            "mshta.exe"
+        ],
+        "outlook.exe": [
+            "powershell.exe",
+            "pwsh.exe",
+            "cmd.exe",
+            "wscript.exe",
+            "cscript.exe"
+        ]
+    },
+    "suspicious_directories": [
+        "\\appdata\\local\\temp\\",
+        "\\appdata\\roaming\\",
+        "\\downloads\\",
+        "\\desktop\\",
+        "\\public\\"
+    ],
+    "suspicious_processes": [
+        "mimikatz.exe",
+        "psexec.exe"
+    ],
+    "script_interpreters": [
+        "powershell.exe",
+        "pwsh.exe",
+        "cmd.exe",
+        "wscript.exe",
+        "cscript.exe",
+        "mshta.exe"
+    ],
+    "scoring": {
+        "suspicious_parent_child": 5,
+        "suspicious_directory": 3,
+        "unknown_process": 2,
+        "blacklisted_process": 8,
+        "new_service": 5,
+        "suspicious_service_path": 4
+    }
+}

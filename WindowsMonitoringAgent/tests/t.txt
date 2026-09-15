@@ -1,0 +1,282 @@
+1.
+Question 1
+What are engagement points when exploring the path to becoming an SAP Professional?
+
+ 
+
+Points to consider when interviewing for an SAP position
+
+Connectors to the person or group that aligns with your career goals
+
+A point system that allows you to give yourself a point for each active SAP engagement
+
+Quality checks before moving to the next phase of an SAP lifecycle
+
+1 point
+2.
+Question 2
+Which engagement point offers an exciting and rewarding career for talented fresh faces and future leaders who want a job with a purpose where they can make a real difference in the world?
+
+ 
+
+SAP Explore Points
+
+Young Thinkers
+
+SAP Partner Talent Initiative
+
+University Alliances
+
+1 point
+3.
+Question 3
+What is SAP’s cloud platform for developing and integrating enterprise applications?
+
+ 
+
+SAP Analytics Cloud
+
+SAP Access Control
+
+Business Technology Platform (BTP)
+
+S/4HANA Cloud
+
+1 point
+4.
+Question 4
+S/4HANA Cloud is SAP’s next-generation enterprise resource planning (ERP) solution that combines financial management, human resources, procurement, and supply chain management.
+
+ 
+
+True
+
+False
+
+1 point
+5.
+Question 5
+Joining like-minded groups on LinkedIn is a great way to build your network.
+
+ 
+
+True
+
+False
+
+1 point
+6.
+Question 6
+SAP’s Young Thinkers supports hands-on teaching to inspire young people at secondary and vocational schools to learn about the economy and computer and data science.
+
+ 
+
+True
+
+False
+
+1 point
+7.
+Question 7
+What can professional certifications do to enhance opportunities and careers?
+
+ 
+
+Demonstrate skills, interest, and expertise
+
+Guarantee a job offer
+
+Show that you are oriented toward business rather than a technical career
+
+Get you the salary you want
+
+1 point
+8.
+Question 8
+An SAP Certified Application Associate – SAP S/4HANA certification includes _____.
+
+ 
+
+Data dictionary objects, programming techniques, and working with the ABAP Workbench
+
+Financials, logistics, and basic knowledge of SAP Activate methodology
+
+Basic concepts of low-code/no-code software development
+
+Knowledge and skills in developing applications on the SAP Cloud Platform
+
+1 point
+9.
+Question 9
+The SAP 3-year global trainee program for women in tech is called _____.
+
+ 
+
+The Digital Skills Center
+
+The SAP Women’s Academy
+
+The Autism at Work Women’s Group
+
+Skills University for Women
+
+1 point
+10.
+Question 10
+Which program provides learning content that helps you gain the skills needed to prepare for an SAP Certification?
+
+ 
+
+SAP Training Shop
+
+People to Work
+
+SAP Learning Journeys
+
+SAP Certification
+
+1 point
+11.
+Question 11
+A learning journey provides _____.
+
+ 
+
+Certification upon completion of training
+
+Beginner information to prepare you for certification
+
+A digital badge upon completion of training
+
+Mastery of content and specialized SAP expertise
+
+1 point
+12.
+Question 12
+Which of these describes Comp TIA A+ certification?
+
+ 
+
+Focuses on managing IT infrastructure and provides learners with a detailed understanding of the principles of the Information Technology Infrastructure Library (ITIL)
+
+Designed to validate expertise in systems administration or engineering
+
+Designed specifically for database administrators, network administrators, and security specialists
+
+Focuses on repairing and configuring mobile devices, setting up and configuring primary networks and hardware, and cloud basics
+
+1 point
+13.
+Question 13
+Which certification includes Lean, Kanban, and leading teams?
+
+ 
+
+Microsoft Technology Associate
+
+Project Management Professional Certificate
+
+Agile Certified Practitioner Certificate
+
+ITIL Foundation
+
+1 point
+14.
+Question 14
+The functional resume format focuses on skills and accomplishments rather than the ______.
+
+ 
+
+Education
+
+Resume
+
+Work history
+
+Answers
+
+1 point
+15.
+Question 15
+A combination resume could be helpful for IT professionals with _____ skills or who want to highlight their achievements in different functional areas, such as software development, project management, or IT support.
+
+ 
+
+No
+
+Extensive
+
+Diverse
+
+Limited
+
+1 point
+16.
+Question 16
+As mentioned in the reading, _____are critical in landing a job. But what does a good interview look like? A quick internet search will yield numerous examples of good and bad interviews.
+
+ 
+
+Resumes
+
+Questions
+
+Answers
+
+Interviews
+
+1 point
+17.
+Question 17
+The interview process may be ____ and involve one interviewer or a panel of interviewers.
+
+ 
+
+Short
+
+Lengthy
+
+Sequential
+
+Drawn out
+
+1 point
+18.
+Question 18
+A recruiter may review your resume and cover letter and contact you for an initial interview if you are a good match.
+
+ 
+
+True
+
+False
+
+1 point
+19.
+Question 19
+Bring copies of your resume and other documents. This will show that you are _____ and organized.
+
+ 
+
+Professional
+
+Prepared
+
+Ready
+
+Interested
+
+1 point
+20.
+Question 20
+The SAP Learning Insights _____ on Spotify provide information, insights, and development trends about topics ranging from SAP solutions, platforms, resources, learning, people, and roles.
+
+ 
+
+Podcasts
+
+Meetings
+
+Videos
+
+Web conferences
